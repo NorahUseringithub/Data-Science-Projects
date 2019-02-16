@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Civic data analyses
+# Project 2: Civic data analyses
 
 ## Business Case
 
@@ -31,26 +31,3 @@ We will be looking for the following things:
 1. Analyze diverse datasets & explicitly state your assumptions.
 2. Form hypotheses and justify them with solid statistical testing in NumPy.
 3. Visualize and interpret your plots using Matplotlib and Seaborn.
-
----
-
-
-## Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:**
-
-Score | Expectations
------ | ------------
-**0** | _Incomplete_
-**1** | _Does not meet expectations_
-**2** | _Meets expectations, good job!_
-
----
-
-## Useful Resources
-
-- Here's a [cheatsheet](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/) of descriptive statistics methods in Pandas.
-
-- Making good plots can take a lot of trial-and-error (especially with matplotlib). The [seaborn example gallery](http://seaborn.pydata.org/examples/) may help you find the right code, and decide what you want to do in the first place.
-
-- Inferential statistics and hypothesis testing can get very nuanced. It is okay to violate some of the assumptions underlying the methods you've learned. But be explicit about why you've chosen a particular method, and what the drawbacks may be.
