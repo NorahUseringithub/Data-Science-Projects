@@ -19,14 +19,6 @@ Secondly, we are hosting two competitions on Kaggle (one for the regression and 
 - Use of train-test split, cross-validation, and data with unknown values for the target to simulate the modeling process
 - The use of Kaggle as a place to practice data science
 
-## Set-up
-
-Before you begin working on this project, please do the following:
-
-1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click these links ([Regression Challenge Sign Up](https://www.kaggle.com/t/652d47357d0c484b93045a47b86009ab) and [Classification Challenge Sign Up](https://www.kaggle.com/t/4a7340431eab4058a4da9b91f67fe8ea)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-MiSK-02 Regression Challenge](https://www.kaggle.com/c/dsi-regression/overview)
-4. Review the material on the [DSI-MiSK-02 Classification Challenge](https://www.kaggle.com/c/dsi-classification/overview)
 
 ## The Modeling Process
 
